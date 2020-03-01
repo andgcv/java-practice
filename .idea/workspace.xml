@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08658fe7-b5af-40cc-93e4-64558541cad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,5 +39,15 @@
       <updated>1582322006325</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="95" key="#Project_Structure" timestamp="1583086738949">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="95" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1583086738949" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582886785071">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1582886785071" />
   </component>
 </project>
