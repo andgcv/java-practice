@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08658fe7-b5af-40cc-93e4-64558541cad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +38,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andgcv.practice.data_structures.BinaryTree" />
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andgcv.practice.data_structures.BinarySearchTree" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -54,7 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTreeNode" />
+        <item itemvalue="Application.BinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
@@ -76,22 +75,22 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="320" y="95" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1583086738949" />
-    <state width="1398" height="109" key="GridCell.Tab.0.bottom" timestamp="1583157469965">
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom" timestamp="1583158717211">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583157469965" />
-    <state width="1398" height="109" key="GridCell.Tab.0.center" timestamp="1583157469964">
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583158717211" />
+    <state width="1398" height="109" key="GridCell.Tab.0.center" timestamp="1583158717210">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583157469964" />
-    <state width="1398" height="109" key="GridCell.Tab.0.left" timestamp="1583157469964">
+    <state width="1398" height="109" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583158717210" />
+    <state width="1398" height="109" key="GridCell.Tab.0.left" timestamp="1583158717210">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583157469964" />
-    <state width="1398" height="109" key="GridCell.Tab.0.right" timestamp="1583157469965">
+    <state width="1398" height="109" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583158717210" />
+    <state width="1398" height="109" key="GridCell.Tab.0.right" timestamp="1583158717211">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583157469965" />
+    <state width="1398" height="109" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583158717211" />
     <state x="221" y="68" key="SettingsEditor" timestamp="1583136855630">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
