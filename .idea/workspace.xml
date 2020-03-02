@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08658fe7-b5af-40cc-93e4-64558541cad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTreeNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,27 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andgcv.practice.data_structures.BinaryTree" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andgcv.practice.data_structures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTreeNode" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,9 +76,29 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="320" y="95" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1583086738949" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582886785071">
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom" timestamp="1583157469965">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1582886785071" />
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583157469965" />
+    <state width="1398" height="109" key="GridCell.Tab.0.center" timestamp="1583157469964">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="109" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583157469964" />
+    <state width="1398" height="109" key="GridCell.Tab.0.left" timestamp="1583157469964">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="109" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583157469964" />
+    <state width="1398" height="109" key="GridCell.Tab.0.right" timestamp="1583157469965">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="109" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583157469965" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1583136855630">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1583136855630" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583136718666">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583136718666" />
   </component>
 </project>
