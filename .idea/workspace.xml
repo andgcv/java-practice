@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="08658fe7-b5af-40cc-93e4-64558541cad3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/algorithms/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/algorithms/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,29 +77,33 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="320" y="95" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1583086738949" />
-    <state width="1398" height="109" key="GridCell.Tab.0.bottom" timestamp="1583158717211">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583162332568">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583158717211" />
-    <state width="1398" height="109" key="GridCell.Tab.0.center" timestamp="1583158717210">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.813@0.23.1440.813" timestamp="1583162332568" />
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom" timestamp="1583179825047">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583158717210" />
-    <state width="1398" height="109" key="GridCell.Tab.0.left" timestamp="1583158717210">
+    <state width="1398" height="109" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583179825047" />
+    <state width="1398" height="109" key="GridCell.Tab.0.center" timestamp="1583179825046">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583158717210" />
-    <state width="1398" height="109" key="GridCell.Tab.0.right" timestamp="1583158717211">
+    <state width="1398" height="109" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583179825046" />
+    <state width="1398" height="109" key="GridCell.Tab.0.left" timestamp="1583179825046">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="109" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583158717211" />
+    <state width="1398" height="109" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583179825046" />
+    <state width="1398" height="109" key="GridCell.Tab.0.right" timestamp="1583179825047">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="109" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583179825047" />
     <state x="221" y="68" key="SettingsEditor" timestamp="1583136855630">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1583136855630" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583136718666">
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583271269336">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583136718666" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583271269336" />
   </component>
 </project>

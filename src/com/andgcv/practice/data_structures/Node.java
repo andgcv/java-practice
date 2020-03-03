@@ -2,10 +2,9 @@ package com.andgcv.practice.data_structures;
 
 public class Node {
     int value;
-    Node left;
-    Node right;
+    Node left, right;
 
-    public Node(int value) {
+    Node(int value) {
         this.value = value;
         right = null;
         left= null;
