@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08658fe7-b5af-40cc-93e4-64558541cad3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/algorithms/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/algorithms/DepthFirstSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andgcv/practice/data_structures/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +98,13 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1583136855630" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583271269336">
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583613549987">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583271269336" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583613549987" />
+    <state x="383" y="157" width="672" height="678" key="search.everywhere.popup" timestamp="1583328630050">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="383" y="157" width="672" height="678" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1583328630050" />
   </component>
 </project>
