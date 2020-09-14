@@ -1,4 +1,4 @@
-package com.andgcv.practice.algorithms;
+package com.andgcv.main.algorithms;
 
 import java.util.LinkedList;
 

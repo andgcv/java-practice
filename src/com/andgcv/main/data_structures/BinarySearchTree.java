@@ -1,7 +1,7 @@
-package com.andgcv.practice.data_structures;
+package com.andgcv.main.data_structures;
 
 public class BinarySearchTree {
-    Node root;
+    BSTNode root;
 
     // Add a Node with the given value to the BST
     public void add(int value) {
@@ -20,8 +20,8 @@ public class BinarySearchTree {
 
     // HELPER METHODS
     // Helper method - Traverses the tree until it finds the right spot and creates a new Node with the given value
-    private Node addRecursive(Node current, int value) {
-        if (current == null) return new Node(value);        // Arrived at desired spot, create new Node
+    private BSTNode addRecursive(BSTNode current, int value) {
+        if (current == null) return new BSTNode(value);        // Arrived at desired spot, create new Node
 
         if (value < current.value) {                        // Value < current node, traverse to left branch
             current.left = addRecursive(current.left, value);
@@ -33,7 +33,7 @@ public class BinarySearchTree {
     }
 
     // Helper method - Tries to find the Node with the given value, returns whether it was found or not
-    private boolean findRecursive(Node current, int value) {
+    private boolean findRecursive(BSTNode current, int value) {
         if (current == null) return false;                  // Didn't find the given value
 
         if (value < current.value) {                        // Value < current node, traverse to left branch
@@ -46,7 +46,7 @@ public class BinarySearchTree {
     }
 
     // Helper method - Tries to find the Node with the given value, deletes it, and reorganizes the tree
-    private Node deleteRecursive(Node current, int value) {
+    private BSTNode deleteRecursive(BSTNode current, int value) {
         if (current == null) return null;                   // Didn't find the given value
 
         if (current.value == value) {
@@ -69,22 +69,7 @@ public class BinarySearchTree {
     }
 
     // Helper method - Traverses left branch until it finds the smallest value, then returns it
-    private int findSmallestValue(Node root) {
+    private int findSmallestValue(BSTNode root) {
         return root.left == null ? root.value : findSmallestValue(root.left);
-    }
-
-    // Lazy testing
-    public static void main(String[] args) {
-        int values = 20;
-        BinarySearchTree bt = new BinarySearchTree();
-        bt.add(10);
-
-        for (int i = 0; i < values; i++) {
-            bt.add(i);
-        }
-
-        System.out.println(bt.find(5));
-        bt.delete(5);
-        System.out.println(bt.find(5));
     }
 }

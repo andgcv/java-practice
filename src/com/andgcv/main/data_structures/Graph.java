@@ -1,4 +1,4 @@
-package com.andgcv.practice.data_structures;
+package com.andgcv.main.data_structures;
 
 import java.util.HashMap;
 import java.util.HashSet;
